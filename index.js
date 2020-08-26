@@ -7,23 +7,53 @@ const genetareMarkdown = require("./utils/generateMarkdown");
 const questions = [
   {
     type: "input",
+    name: "Github",
+    message: "what is your GitHub username?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "what is your email?",
+  },
+  {
+    type: "input",
+    name: "url",
+    message: "what is the URL to your project?",
+  },
+  {
+    type: "input",
     name: "title",
-    message: "what is the name of your repo?",
+    message: "what is the name of your project?",
   },
   {
     type: "input",
-    name: "Github",
-    message: "what is your github username?",
+    name: "description",
+    message: "please write a short description of your project",
+  },
+  // {
+  //   type: "input",
+  //   name: "license",
+  //   message: "what kind of license should your project have?",
+  // },
+  {
+    type: "input",
+    name: "install",
+    message: "what command should be run to install dependencies?",
   },
   {
     type: "input",
-    name: "Github",
-    message: "what is your github username?",
+    name: "test",
+    message: "what comman should ve run to run tests?",
   },
   {
     type: "input",
-    name: "Github",
-    message: "what is your github username?",
+    name: "questions",
+    message: "what does the user need to know about using the repo?",
+  },
+  {
+    type: "input",
+    name: "contributing",
+    message: "what does the user need to know about contributing to the repo?",
   },
 ];
 
