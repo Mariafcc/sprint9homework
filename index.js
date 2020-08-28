@@ -30,11 +30,11 @@ const questions = [
     name: "description",
     message: "please write a short description of your project",
   },
-  // {
-  //   type: "input",
-  //   name: "license",
-  //   message: "what kind of license should your project have?",
-  // },
+  {
+    type: `list: [ "mit", new inquirer.Separator(), "gpl", new inquirer.Separator(), "	isc" ]`,
+    name: "license",
+    message: "what kind of license should your project have?",
+  },
   {
     type: "input",
     name: "install",

@@ -5,6 +5,7 @@ function generateMarkdown(data) {
   # ${data.url}
   # ${data.title}
   # ${data.description}
+  # ${data.license}
   # ${data.intstall}
   # ${data.test}
   # ${data.questions}
