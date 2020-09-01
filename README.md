@@ -9,26 +9,35 @@
   https://github.com/Mariafcc/sprint9homework
 
   ## Title
-  sprint9homework
+  sprint9homework 
 
   ## Description
-  Use this README file, to write instructions of what you would like your project to be. 
+  Using this README.md file it will allow you to write instructions on how you will want you
+
+  ## Table of Contents 
+
+  * [Description](#Description)
+  * [License](#License)
+  * [Installation](#Install)
+  * [Test](#Test)
+  * [Questions](#Questions)
+  * [Contributing](#Contributing)
 
   ## License
-  MIT <br />
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+  MOZILLA <br />
+  [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
   
 
   ## Install
-  undefined
+  User will need to install node and inquirer
 
   ## Test
-  no test will be ran. 
+  no test
 
   ## Questions
-  You can add or change anything including the license. 
+  n/a
 
   ## Contributing
-  n/a
+   User can make repo their own with any project they have. 
   
   

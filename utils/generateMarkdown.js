@@ -1,7 +1,3 @@
-// function badgeChange(license) {
-//   return `![GitHub license](https://img.shields.io/badge/License-${license}-blue.svg)`;
-// }
-
 function badgeChange(license) {
   const mit = `[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`;
   const isc = `[![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)`;
@@ -15,10 +11,6 @@ function badgeChange(license) {
     return mozilla;
   }
 }
-
-// function licenseDisplay(license) {
-//   return `https://opensource.org/licenses/${license}`;
-// }
 
 // function to generate markdown for README
 function generateMarkdown(data) {
@@ -38,13 +30,22 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
+  ## Table of Contents 
+
+  * [Description](#Description)
+  * [License](#License)
+  * [Installation](#Install)
+  * [Test](#Test)
+  * [Questions](#Questions)
+  * [Contributing](#Contributing)
+
   ## License
   ${data.license} <br />
   ${badgeChange(data.license)} 
   
 
   ## Install
-  ${data.intstall}
+  ${data.install}
 
   ## Test
   ${data.test}
@@ -58,5 +59,5 @@ function generateMarkdown(data) {
   
 `;
 }
-// ${licenseDisplay(data.license)}
+
 module.exports = generateMarkdown;
