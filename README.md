@@ -1,43 +1,51 @@
+## Github
 
-  ## Github
-   mariafcc
+mariafcc
 
-  ## Email
-   mariafcc01@gmail.com
+## Email
 
-  ## URL
-  https://github.com/Mariafcc/sprint9homework
+mariafcc01@gmail.com
 
-  ## Title
-  sprint9homework
+## URL
 
-  ## Description
-  This is a node moduel to generate README files, including this one.
+https://github.com/Mariafcc/sprint9homework
 
-  ## Table of Contents 
+## Title
 
-  * [Description](#Description)
-  * [License](#License)
-  * [Installation](#Install)
-  * [Test](#Test)
-  * [Questions](#Questions)
-  * [Contributing](#Contributing)
+sprint9homework
 
-  ## License
-  MIT <br />
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-  
+## Description
 
-  ## Install
-  User will need to install node and inquirer.Node can be downloaded here https://nodejs.org/en/ and run npm install inquirer. 
+This is a node moduel to generate README files, including this one.
+![](./demo.png)
+![](./termdemo.png)
 
-  ## Test
-  testing coming soon...
+## Table of Contents
 
-  ## Questions
-  Dont break anything! 
+- [Description](#Description)
+- [License](#License)
+- [Installation](#Install)
+- [Test](#Test)
+- [Questions](#Questions)
+- [Contributing](#Contributing)
 
-  ## Contributing
-  make it your own... while not breaking anything!
-  
-  
+## License
+
+MIT <br />
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Install
+
+User will need to install node and inquirer.Node can be downloaded here https://nodejs.org/en/ and run npm install inquirer.
+
+## Test
+
+testing coming soon...
+
+## Questions
+
+Dont break anything!
+
+## Contributing
+
+make it your own... while not breaking anything!
