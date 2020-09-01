@@ -6,29 +6,29 @@
    mariafcc01@gmail.com
 
   ## URL
-  mariafcc.github.io
+  https://github.com/Mariafcc/sprint9homework
 
   ## Title
-  README.md
+  sprint9homework
 
   ## Description
-  This is a readme file. 
+  Use this README file, to write instructions of what you would like your project to be. 
 
   ## License
-  MOZILLA <br />
-  [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  MIT <br />
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   
 
   ## Install
   undefined
 
   ## Test
-  none
+  no test will be ran. 
 
   ## Questions
-  This repo can be adjusted to your readme needs.
+  You can add or change anything including the license. 
 
   ## Contributing
-  make it your own
+  n/a
   
   
