@@ -31,9 +31,10 @@ const questions = [
     message: "please write a short description of your project",
   },
   {
-    type: `list: [ "mit", new inquirer.Separator(), "gpl", new inquirer.Separator(), "	isc" ]`,
-    name: "license",
+    type: "list",
     message: "what kind of license should your project have?",
+    name: "license",
+    choices: ["MIT", "MOZILLA", "ISC"],
   },
   {
     type: "input",
@@ -43,7 +44,7 @@ const questions = [
   {
     type: "input",
     name: "test",
-    message: "what comman should ve run to run tests?",
+    message: "what command should we run to run tests?",
   },
   {
     type: "input",
