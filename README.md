@@ -9,10 +9,10 @@
   https://github.com/Mariafcc/sprint9homework
 
   ## Title
-  sprint9homework 
+  sprint9homework
 
   ## Description
-  Using this README.md file it will allow you to write instructions on how you will want you
+  This is a node moduel to generate README files, including this one.
 
   ## Table of Contents 
 
@@ -24,20 +24,20 @@
   * [Contributing](#Contributing)
 
   ## License
-  MOZILLA <br />
-  [![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) 
+  MIT <br />
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   
 
   ## Install
-  User will need to install node and inquirer
+  User will need to install node and inquirer.Node can be downloaded here https://nodejs.org/en/ and run npm install inquirer. 
 
   ## Test
-  no test
+  testing coming soon...
 
   ## Questions
-  n/a
+  Dont break anything! 
 
   ## Contributing
-   User can make repo their own with any project they have. 
+  make it your own... while not breaking anything!
   
   
